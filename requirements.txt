@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+inngest>=0.2.0
+requests>=2.31.0
+pydantic>=2.4.0
+python-dotenv>=1.0.0
