@@ -30,7 +30,9 @@ The app allows users to:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/rag-streamlit-app.git
+
+git clone https://github.com/wafadalilahabet-jpg/rag-streamlit-app.git
+
 cd rag-streamlit-app
 ```
 
@@ -74,3 +76,4 @@ streamlit run app.py
 
 ## License
 This project is licensed under the MIT License.
+
